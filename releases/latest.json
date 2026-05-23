@@ -1,0 +1,14 @@
+{
+  "appName": "SteenBlack Launcher",
+  "version": "7.2.2",
+  "channel": "online-stable",
+  "mainLauncher": "SteenBlackLauncher.bat",
+  "fileName": "SteenBlackLauncher.exe",
+  "downloadUrl": "SteenBlackLauncher.exe",
+  "sha256": "COLOQUE_AQUI_O_SHA256_DO_EXE_REAL",
+  "releaseNotes": [
+    "Atualizacao da pagina para V7.2.2.",
+    "Servidor online preparado para baixar SteenBlackLauncher.exe.",
+    "Instalador e atualizador usam este arquivo automaticamente."
+  ]
+}
