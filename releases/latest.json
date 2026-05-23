@@ -4,11 +4,10 @@
   "channel": "online-stable",
   "mainLauncher": "SteenBlackLauncher.bat",
   "fileName": "SteenBlackLauncher.exe",
-  "downloadUrl": "SteenBlackLauncher.exe",
-  "sha256": "COLOQUE_AQUI_O_SHA256_DO_EXE_REAL",
+  "downloadUrl": "https://github.com/Alemaozin404/steenblack-launcher-server/releases/download/7.2.2/SteenBlackLauncher.exe",
+  "sha256": "a28a719c2c62d2e952d70259a184e1d55d50ab6c469883cfb695baf532e35b5",
   "releaseNotes": [
-    "Atualizacao da pagina para V7.2.2.",
-    "Servidor online preparado para baixar SteenBlackLauncher.exe.",
-    "Instalador e atualizador usam este arquivo automaticamente."
+    "SteenBlack Launcher V7.2.2 publicado.",
+    "Instalador e atualizador baixam esta versao automaticamente."
   ]
 }
